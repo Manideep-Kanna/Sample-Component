@@ -4,5 +4,5 @@ metadata:
   name: "Sample_Component"
 spec:
   type: service
-  owner: user:guest
+  owner: Manideep
   lifecycle: experimental
